@@ -175,7 +175,4 @@ Your final report should include each of the following:
 
 As final considerations:
 
-* Use the pandas library and Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of at least two observable trends based on the data.
-* See [Example Solution](PyCitySchools/PyCitySchools_starter.ipynb) for a reference on the expected format.
+
